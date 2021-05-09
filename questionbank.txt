@@ -1,0 +1,102 @@
+A program is supposed to print the numbers from 1 to 10, but instead it prints 0 to 9. What type of error is it?
+A) A syntax error
+B) A compilation error
+C) A fatal runtime error
+D) A logic error
+D
+Which of the following is a valid Java variable?
+A) aBCde123
+B) 123test
+C) t_e_s_t!
+D) my age
+A
+What is the length of this array?: int[] myArray= new int[10];
+A) 9
+B) 10
+C) 11
+D) error
+B
+Which of the following is NOT a primitive type?
+A) int
+B) boolean
+C) String
+D) char
+C
+Java is...
+A) An OOP language
+B) A slang term for coffee
+C) Used to create Minecraft mods
+D) All of the above
+D
+Which properly creates an ArrayList?
+A) ArrayList<Integer> list = new ArrayList<Integer>();
+B) ArrayList<> list = new ArrayList<Integer>();
+C) ArrayList list = new ArrayList();
+D) ArrayList<int> list = new ArrayList<int>();
+A
+Which of the following for loop headers is not valid?
+A) for( int i = 99; i >= 0; i / 9 )
+B) for( int i = 7; i <= 77; i += 7 )
+C) for( int i = 20; i >= 2; - -i )
+D) for( int i = 2; i <= 20; i = 2* i )
+A
+Which of the following is NOT a reserved keyword in Java?
+A) abstract
+B) private
+C) main
+D) finally
+C
+The length of an array represents...
+A) The index of the last element
+B) How "long" each element is
+C) Whether or not the array is full
+D) The number of elements
+D
+To add a new line to a String, you should use...
+A) \t
+B) \n
+C) /n
+D) \b
+B
+Which is a proper Java comment?
+A) //this is a comment
+B) /this is a comment
+C) # this is a comment
+D) <!--this is a comment-->
+A
+If you declared an int and a boolean (without initializing them), what would their default values be?
+A) 1 / true
+B) 0 / true
+C) 0 / false
+D) -1 / false
+C
+What is the value of num after this statement executes: int num = 2.0/4;
+A) 0.5
+B) 0
+C) 1/2
+D) Error
+D
+Let's say you wanted to build a Robot class. What would the header of its two-arg constructor look like?
+A) public Robot(int x, y) {
+B) public void Robot(int x, int y) {
+C) public Robot(int x, int y) {
+D) private Robot(int x, int y) {
+C
+To declare a constant, use the keyword:
+A) constant
+B) final
+C) const
+D) let
+B
+Which structure allows a program to "make decisions"?
+A) If statement
+B) Switch statement
+C) For-each loop
+D) Both A and B
+D
+What are some strategies that you can do to debug a program?
+A) Output to the console
+B) Use your IDE's debugger tool
+C) Talking through your code
+D) All of the above
+D
