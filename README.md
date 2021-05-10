@@ -12,7 +12,7 @@ To answer multiple choice questions: 'A', 'B', 'C', or 'D' keys
 ## Authors
 [Ariana Rice](https://github.com/ariceeee)
 
-Manya Narwal
+[Manya Narwal](https://github.com/ManyaNarwal)
 
 Kelly Jiang
 
