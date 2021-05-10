@@ -1,37 +1,22 @@
-Welcome to Glitch
-=================
+# COSC 111 Review: The Game
+This project was created as part of 'Hack Your Skills', a two-month long program in which teams of first year students collaborate on a coding project of their choice, hosted by UBC Okanagan's Girls in Tech club.
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+## Description
+We created this game to make reviewing for COSC 111 (an introductory computer science course at UBC Okanagan) fun and engaging. Feel free to explore the map, but beware of entering the bushes as you may initiate a battle! The battle mechanics resemble those of Pokemon battles but instead of battling Pokemon, you're going to be battling enemies which a CS student might have, like a NullPointerException or a bad internet connection! And instead of using your Pokemon's moves to defeat them, you'll be answering multiple choice questions that pertain to COSC 111 concepts.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+## How to Play
+To move the player around the map: Arrow Keys
 
-Find out more [about Glitch](https://glitch.com/about).
+To answer multiple choice questions: 'A', 'B', 'C', or 'D' keys
 
+## Authors
+[Ariana Rice](https://github.com/ariceeee)
 
-Your Project
-------------
+Manya Narwal
 
-### ← README.md
+Kelly Jiang
 
-That's this file, where you can tell people what your cool website does and how you built it.
+## Acknowledgements
+Shout out to Pokemon for inspiring parts of our game, such as the battle element. 
 
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+We'd also like to say thanks to the awesome Hack Your Skills organizers for putting this program together!
